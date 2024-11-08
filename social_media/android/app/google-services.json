@@ -1,0 +1,126 @@
+{
+  "project_info": {
+    "project_number": "149677013063",
+    "project_id": "scoial-app-d4166",
+    "storage_bucket": "scoial-app-d4166.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149677013063:android:1e56f568350e5cbc22d962",
+        "android_client_info": {
+          "package_name": "com.example.scoial_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149677013063-7em82pfbncj8f2aolpgi6n25io4bv6a4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.scoial_app",
+            "certificate_hash": "52957cf5785c2a049f7037a467cf4ded199ef023"
+          }
+        },
+        {
+          "client_id": "149677013063-gqv3mbco5gh0ndejkft2hqh32tuav4un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-pMIIVTYcvCz0VZB-yWPAtI11tRqOpZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149677013063-gqv3mbco5gh0ndejkft2hqh32tuav4un.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149677013063-2fdpm5h7if2eejdldj1s3m6nn3713q3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149677013063:android:1aaf953de461823922d962",
+        "android_client_info": {
+          "package_name": "com.example.social_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149677013063-gqv3mbco5gh0ndejkft2hqh32tuav4un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-pMIIVTYcvCz0VZB-yWPAtI11tRqOpZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149677013063-gqv3mbco5gh0ndejkft2hqh32tuav4un.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149677013063-2fdpm5h7if2eejdldj1s3m6nn3713q3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialApp"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:149677013063:android:eaa689aa2efb747c22d962",
+        "android_client_info": {
+          "package_name": "com.example.social_media"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "149677013063-gqv3mbco5gh0ndejkft2hqh32tuav4un.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-pMIIVTYcvCz0VZB-yWPAtI11tRqOpZM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "149677013063-gqv3mbco5gh0ndejkft2hqh32tuav4un.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "149677013063-2fdpm5h7if2eejdldj1s3m6nn3713q3b.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.socialApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
